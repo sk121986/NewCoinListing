@@ -24,7 +24,7 @@
     LOG_TO_CONSOLE: True
   TELEGRAM:
     # set to True to enable telegram notifications
-    ENABLED: False
+    ENABLED: True
     # Disable / Enable specific notifications
     NOTIFICATIONS:
       STARTUP: True # welcome message
