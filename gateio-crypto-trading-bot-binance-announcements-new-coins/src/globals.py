@@ -9,7 +9,7 @@ latest_listing = ""
 #TRADE_OPTIONS config values
 quantity = 15
 pairing = "USDT"
-test_mode = True
+test_mode = False
 sl = -3
 tp = 2
 enable_tsl = True
